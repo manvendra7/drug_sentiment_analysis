@@ -17,3 +17,8 @@ The dataset provides patient reviews on specific drugs along with related condit
 4. rating (numerical): 10 star patient rating
 5. date (date): date of review entry
 6. usefulCount (numerical): number of users who found review useful
+
+### Exploratory Data Analysis
+Through our EDA we were able to find some interesting facts about our data. Below are the things that we found :
+* The most top condition were pain, birth control and high blood pressure.
+* 
